@@ -24,7 +24,7 @@ npm install
 Start Development Server
 npm run dev
 
-View in Browser Open http://localhost:5173 (or the URL provided in the terminal) to see the application in action.
+View in Browser Open https://google-gemini-clone2.netlify.app/ to see the application in action.
 
 Technologies Used
 React JS: For building the dynamic and interactive front-end.
